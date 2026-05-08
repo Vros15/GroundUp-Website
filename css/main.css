@@ -231,6 +231,9 @@ section.info {
     transform: scale(1.05);
 }
 
+section.menu {
+    padding-bottom: 80px; /* Added padding to create white space at the bottom of the menu section */
+}
 
 /* =========================
    FOOTER
