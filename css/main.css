@@ -41,6 +41,7 @@ p.subheading{
 
 p.hours {
     font-size: 38px;
+    padding-top: 10px;
 }
 
 
@@ -170,8 +171,6 @@ section.info h2 {
 section.info p {
     margin: 0;
 }
-
-
 
 
 /* =========================
