@@ -63,7 +63,7 @@ p.hours {
 
 main {
     background-color: var(--color-white);
-    border-radius: 12px;
+    border-radius: 12px 12px 0 0;
     overflow: hidden;
     margin-bottom: 0;
 }
@@ -275,12 +275,8 @@ section.menu {
     padding: 2rem 0;
     text-align: center;
     color: var(--color-coffee);
-    max-width: 1300px;
-    margin: 0 auto 20px;
-    border-radius: 0 0 12px 12px; /* Rounded bottom corners */
     border-top: 2px solid rgba(107, 53, 14, 0.4);
-    
-    
+    border-radius: 0 0 12px 12px;
 }
 
 /* Top row */
