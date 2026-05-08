@@ -270,13 +270,23 @@ section.menu {
 /* =========================
    FOOTER
 ========================= */
+.footer-left a {
+    color: var(--color-coffee);
+    text-decoration: none;
+    font-weight: 600;
+    font-family: var(--font-heading);
+    display: block;
+    padding-top: 10px;
+}
+
 .footer {
+    
     background: var(--color-footer);
-    padding: 2rem 0;
     text-align: center;
     color: var(--color-coffee);
     border-top: 2px solid rgba(107, 53, 14, 0.4);
     border-radius: 0 0 12px 12px;
+    padding-bottom: 30px;
 }
 
 /* Top row */
@@ -284,7 +294,7 @@ section.menu {
     display: flex;
     justify-content: space-between;
     padding: 0 2rem;
-    margin-bottom: 1.5rem;
+    margin: 2rem 0rem 2rem 0rem;
 }
 
 /* Equal columns */
@@ -303,7 +313,8 @@ section.menu {
 
 .footer-social img {
     width: 40px;
-    margin: 1rem 0;
+    margin-top: -20px;
+    
 }
 
 /* Copyright */
