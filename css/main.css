@@ -17,6 +17,9 @@ body {
     color: var(--color-primary-text);
 }
 
+
+
+
 h1, h2, h3 {
     font-family: var(--font-heading);
 }
@@ -77,7 +80,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 2rem;
+    padding: 1.5em 2rem;
 }
 
 /* NAV LINKS */
@@ -153,7 +156,17 @@ main {
 ========================= */
 section.info {
     text-align: center;
+   
 }
+/* reduce section.info H2 and parapgrah margins */
+section.info h2 {
+    margin: 0;
+}
+
+section.info p {
+    margin: 0;
+}
+
 
 
 /* =========================
