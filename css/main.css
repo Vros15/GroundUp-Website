@@ -182,6 +182,7 @@ section.info p {
     margin: 5rem 0;
     padding-left: 30px;
     padding-right: 30px;
+    max-width: 1052px;
 }
 
 .feature-item img {
@@ -196,6 +197,9 @@ section.info p {
 
 .feature-text {
     max-width: 612px;
+    margin: 0 auto;
+    padding: 15px;
+
 }
 
 .feature-text h3 {
@@ -204,6 +208,7 @@ section.info p {
 
 .feature-text p {
     margin-top: 0.5rem;
+    
 }
 
 .coffeeShopSign{
