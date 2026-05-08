@@ -114,6 +114,8 @@ main {
     position: relative;
     border-radius: 12px 12px 0 0;
     overflow: hidden;
+    margin: 10px; /* Added maring to hero for white spacing from main*/
+    border-radius: 12px; /* Added border radius for rounding hero imng*/
 }
 
 /* add gradient overlay over the hero img*/
