@@ -54,13 +54,17 @@ p.hours {
 }
 
 
-main {
-    background-color: var(--color-white);
+.site-wrapper {
     max-width: 1300px;
     margin: 30px auto;
-    border-radius: 12px 12px 0 0; /* Rounded top corners */
-    overflow: hidden;
+    border-radius: 12px;
     position: relative;
+}
+
+main {
+    background-color: var(--color-white);
+    border-radius: 12px;
+    overflow: hidden;
     margin-bottom: 0;
 }
 
