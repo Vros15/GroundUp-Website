@@ -286,9 +286,8 @@ section.menu {
     text-align: right;
 }
 
-/* Social icons */
-.footer img {
-    width: 120px;
+.footer-social img {
+    width: 40px;
     margin: 1rem 0;
 }
 
