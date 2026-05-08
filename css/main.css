@@ -244,9 +244,10 @@ section.menu {
     text-align: center;
     color: var(--color-coffee);
     max-width: 1300px;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     border-radius: 0 0 12px 12px; /* Rounded bottom corners */
     border-top: 2px solid rgba(107, 53, 14, 0.4);
+    
     
 }
 
