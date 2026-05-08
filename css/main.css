@@ -169,14 +169,17 @@ section.info p {
 
 
 
+
 /* =========================
    FEATURES SECTION
 ========================= */
+
+
 .feature-item {
     display: flex;
     align-items: center;
     gap: 2rem;
-    margin: 3rem 0;
+    margin: 5rem 0;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -192,9 +195,16 @@ section.info p {
 }
 
 .feature-text {
-    max-width: 500px;
+    max-width: 612px;
 }
 
+.feature-text h3 {
+    margin: 0;
+}
+
+.feature-text p {
+    margin-top: 0.5rem;
+}
 
 .coffeeShopSign{
     display: flex;
