@@ -190,7 +190,7 @@ section.info p {
 }
 
 .feature-item img {
-    width: 300px;
+    width: 390px;
     border-radius: 12px;
 }
 
@@ -202,7 +202,6 @@ section.info p {
 .feature-text {
     max-width: 612px;
     margin: 0 auto;
-    padding: 15px;
 
 }
 
